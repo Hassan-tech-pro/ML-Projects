@@ -28,11 +28,11 @@ This project demonstrates:
 ├── gradio_app.ipynb             # Interactive Gradio application
 ├── README.md                    # This file
 ├── .gitignore                   # Git ignore rules (excludes model folder)
-├── config.json                  # Model configuration
-├── model.safetensors            # Trained model weights
-├── tokenizer_config.json        # Tokenizer configuration
-├── tokenizer.json               # Tokenizer vocabulary
 └── saved_bert_news_model/       # Complete saved model (NOT in repo - see below)
+    ├── config.json              # Model configuration
+    ├── model.safetensors        # Trained model weights
+    ├── tokenizer_config.json    # Tokenizer configuration
+    └── tokenizer.json           # Tokenizer vocabulary
 ```
 
 ## Model Download
