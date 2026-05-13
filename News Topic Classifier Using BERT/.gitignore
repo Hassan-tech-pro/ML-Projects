@@ -1,0 +1,5 @@
+# BERT Model Artifacts
+saved_bert_news_model/model.safetensors
+saved_bert_news_model/config.json
+saved_bert_news_model/tokenizer.json
+saved_bert_news_model/tokenizer_config.json
